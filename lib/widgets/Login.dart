@@ -52,7 +52,7 @@ class _LoginState extends State<Login> {
                   obscureText: visibilite,
                   controller: password,
                   decoration: InputDecoration(
-                      hintText: "Mot de passe",
+                      hintText: "Mot de passe!!",
                       border: OutlineInputBorder(
                           borderRadius: BorderRadius.circular(20)),
                       prefixIcon: const Icon(Icons.lock),
